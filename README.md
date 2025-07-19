@@ -8,10 +8,10 @@
 
 - 💬 Multi-turn conversational AI with memory
 - 📚 RAG-based question answering from PDFs, URLs, and FAQs
-- 🔍 Fast and accurate retrieval using vector databases (FAISS, Chroma, etc.)
-- 📅 Meeting booking integration (e.g., Google/Outlook Calendar)
+- 🔍 Fast and accurate retrieval using vector databases ( Chroma)
+- 📅 Meeting booking integration 
 - 🌐 REST API backend with FastAPI
-- 🧠 LLM integration (OpenAI GPT / LLaMA via HuggingFace)
+- 🧠 LLM integration (LLaMA via HuggingFace)
 
 ---
 
@@ -19,9 +19,8 @@
 
 - **Backend:** FastAPI
 - **LLM Orchestration:** LangChain
-- **Vector Store:** FAISS / Chroma / Weaviate
-- **Embedding Models:** OpenAI, HuggingFace Transformers
-- **Scheduler Integration:** Google Calendar API
+- **Vector Store:**  Chroma 
+- **Embedding Models:** HuggingFace Transformers
 - **Deployment:** Docker, uvicorn, Gunicorn
 
 ---
