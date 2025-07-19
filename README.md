@@ -1,6 +1,6 @@
 # LLM-CustomerAssistant
 
-**LLM-CustomerAssistant** is an intelligent AI chatbot system for customer support and knowledge delivery. Built with OpenAI/LLaMA models, FastAPI, LangChain, and a RAG (Retrieval-Augmented Generation) pipeline, it enables natural, context-aware conversations with real-time access to internal knowledge bases.
+**LLM-CustomerAssistant** is an intelligent AI chatbot system for customer support and knowledge delivery. Built with OLLaMA models, FastAPI, LangChain, and a RAG (Retrieval-Augmented Generation) pipeline, it enables natural, context-aware conversations with real-time access to internal knowledge bases.
 
 ---
 
@@ -11,7 +11,7 @@
 - 🔍 Fast and accurate retrieval using vector databases ( Chroma)
 - 📅 Meeting booking integration 
 - 🌐 REST API backend with FastAPI
-- 🧠 LLM integration (LLaMA via HuggingFace)
+- 🧠 LLM integration (OLLaMA via HuggingFace)
 
 ---
 
